@@ -9,19 +9,22 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+Import the necessary libraries and read the original image and save it as a image variable.
 
 ### Step2:
-<br>
+Translate the image using a function warpPerpective()
 
 ### Step3:
-<br>
+Scale the image by multiplying the rows and columns with a float value.
 
 ### Step4:
-<br>
+Shear the image in both the rows and columns.
 
 ### Step5:
-<br>
+Find the reflection of the image.
+
+### step 6:
+Rotate the image using angle function.
 
 ## Program:
 #### Developed By: Ramya R
@@ -134,33 +137,14 @@ plt.show()
 ### iv)Image shearing
 ![Screenshot 2024-09-25 202002](https://github.com/user-attachments/assets/2530527e-9bdf-46f5-bbf9-9bca3159e8bd) ![Screenshot 2024-09-25 202008](https://github.com/user-attachments/assets/602de6b1-430b-4810-ba9d-f672f2bacf09)
 
-
-
-
 ### v)Image Reflection
-<br>
-<br>
-<br>
-<br>
-
-
+![Screenshot 2024-09-25 202238](https://github.com/user-attachments/assets/68e82730-5d68-4537-bdf8-4822743ea425) ![Screenshot 2024-09-25 202246](https://github.com/user-attachments/assets/90fb4820-bdeb-4268-bad9-0ae876914bae)
 
 ### vi)Image Rotation
-<br>
-<br>
-<br>
-<br>
+![Screenshot 2024-09-25 202346](https://github.com/user-attachments/assets/ccf6503b-fa5d-4292-9931-88908a48906c)
 
-
-
-### vii)Image Cropping
-<br>
-<br>
-<br>
-<br>
-
-
-
+### vii) Image Cropping
+![Screenshot 2024-09-25 202451](https://github.com/user-attachments/assets/0ec25497-b4a2-4bbc-bd61-93086bdc10b1)
 
 ## Result: 
 
